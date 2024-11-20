@@ -1,0 +1,67 @@
+
+body{ width: 1500px;;}
+.container{
+    display: flex;
+    justify-content: space-between;
+    max-width: 2000px;
+    width: 100%;
+    
+}
+li{ display: flex;
+justify-content: space-between;}
+ul{ display: flex;
+font-size: 17px;
+color: #636060;
+justify-content: space-between;
+max-width: 800px;
+width: 100%;;
+}
+.headerr{ display: flex; 
+    max-width: 900px;
+    width: 100%;
+    justify-content: space-between
+;}
+
+section{ display: flex;
+     background-image: url(../images/photo.jpg) ;
+background-repeat: no-repeat;
+height: 700px;
+width: 100%;
+justify-content: center;
+align-items: center;
+
+}
+.discover{ 
+color: white;
+font-size: 79px;
+}
+.travel{ color: white;
+font-size: 19px;
+margin-left: 146px;;}
+.title{ column-gap: 31px;
+width: 625px;}
+
+.info{ width: 235px;
+;}
+.cover{ font-size: 17px;
+color: #636060;}
+.servieces{ font-size: 28px;
+margin-top: 9px;}
+.discovery{ font-size: 20px;
+color: #636060;
+margin-top: 40px;
+height: 195px;}
+
+.block{ display: flex;
+    justify-content: space-around
+;}
+.booking{ width: 286px;
+;}
+.flight{ font-size: 19px;
+color: black;}
+.hope{ font-size: 18px;
+color: #636060;}
+.full{ display: flex;
+    justify-content: space-evenly;
+    width: 1000px;;
+}
